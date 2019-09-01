@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/counter-app-1/static/css/main.c83382c5.chunk.css",
+    "main.js": "/counter-app-1/static/js/main.defbec56.chunk.js",
+    "main.js.map": "/counter-app-1/static/js/main.defbec56.chunk.js.map",
+    "runtime~main.js": "/counter-app-1/static/js/runtime~main.67706e53.js",
+    "runtime~main.js.map": "/counter-app-1/static/js/runtime~main.67706e53.js.map",
+    "static/js/2.4ee07d82.chunk.js": "/counter-app-1/static/js/2.4ee07d82.chunk.js",
+    "static/js/2.4ee07d82.chunk.js.map": "/counter-app-1/static/js/2.4ee07d82.chunk.js.map",
+    "index.html": "/counter-app-1/index.html",
+    "precache-manifest.2039adce86cc3118320753b9c087921f.js": "/counter-app-1/precache-manifest.2039adce86cc3118320753b9c087921f.js",
+    "service-worker.js": "/counter-app-1/service-worker.js",
+    "static/css/main.c83382c5.chunk.css.map": "/counter-app-1/static/css/main.c83382c5.chunk.css.map",
+    "static/media/logo.svg": "/counter-app-1/static/media/logo.5d5d9eef.svg"
+  }
+}
